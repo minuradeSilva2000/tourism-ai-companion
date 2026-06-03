@@ -1,0 +1,10 @@
+{
+  "typescript.tsconfig": "backend/jsconfig.json",
+  "javascript.preferences.includePackageJsonAutoImports": "off",
+  "files.watcherExclude": {
+    "**/node_modules/**": true
+  },
+  "search.exclude": {
+    "**/node_modules": true
+  }
+}
